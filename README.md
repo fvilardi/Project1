@@ -1,1 +1,1 @@
-# Code for entities I worked on from project Trainsquare
+# Code samples from projects I have worked on 
