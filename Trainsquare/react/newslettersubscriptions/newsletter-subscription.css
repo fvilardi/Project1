@@ -1,0 +1,91 @@
+.field {
+    width: 70%;
+    margin-bottom: .1in;
+}
+.has-error {
+    color: red;
+    width: 100%;
+}
+.subscribe {
+    margin-Bottom: .2in;
+    width: 70%;
+    font-Size: 1.1rem;
+    font-Weight: bolder;
+    color: white;
+    padding: 0.2rem;
+    border-Radius: 0.5rem;
+    border: 0.1rem #727CF5 solid;
+    background-Color: #727CF5;
+    cursor: pointer;
+}
+.style-1 {
+    display: flex;
+    justify-Content: space-between;
+    font-Size: .7rem;
+}
+.style-2 {
+    font-Size: 14pt;
+    margin-Left: 1in;
+    margin-Right: 1in;
+}
+.style-3 {
+    width: 45px;
+    height: 30px;
+    font-Size: 0.8rem;
+    padding: 0.2rem;
+    border-Radius: 0.5rem;
+    border: 0.1rem #e0e0e0 solid;
+    background-Color: #727CF5;
+    cursor: pointer;
+    color: white;
+}
+.style-4 {
+    margin-Top: 0.1rem;
+}
+.style-5 {
+    height: 8in;
+    width: 7in;
+    background-Color: white;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-Radius: 0.25rem;
+    color: grey;
+    box-Shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15);
+}
+.center {
+    justify-Content: center;
+}
+.pagination {
+    margin-Left: 16%;
+    margin-Top: 1%;
+    margin-Bottom: 2%;
+}
+.search {
+    margin-Left: 17%;
+    margin-Bottom: .2in;
+    width: 11%;
+    font-Size: 1.1rem;
+    font-Weight: bolder;
+    color: white;
+    padding: 0.2rem;
+    border-Radius: 0.5rem;
+    border: 0.1rem #727CF5 solid;
+    background-Color: #727CF5;
+    cursor: pointer;
+}
+.search-field {
+    height: .4in;
+    width: 50%; 
+    margin-Left: 1%;
+    margin-Bottom: .2i;
+}
+.unsubscribe-center {
+text-align: center;
+margin-top: 1.8in;
+color: #727CF5;
+font-size: 32pt;
+}
+html {
+    background: url('../../assets/images/bg-pattern-light.svg') center;
+    background-size: cover;
+}
