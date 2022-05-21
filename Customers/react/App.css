@@ -1,0 +1,33 @@
+.centerCustomer {
+    text-align: center;
+    justify-content: center;
+}
+.marginCustomer {
+    margin-bottom: .5in;
+}
+.buttonCustomer {
+    background: none;
+    border: none;
+    color: #069;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .centerAddEditCustomer {
+      justify-content: center;
+      
+  }
+  .marginAddEditCustomer {
+    margin-left: 7in;
+  }
+  .margin2AddEditCustomer {
+      margin-left: .7in;
+  }
+  .fieldMargin {
+      margin-bottom: 15px;
+  }
+  input:invalid {
+      border: 1px solid red;
+  }
+.red {
+    color: red;
+}
